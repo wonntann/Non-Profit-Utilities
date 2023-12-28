@@ -7,9 +7,12 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 # Table of Contents
 - [Other repos for Developers](#other-repos)
 - Tools
-    - [Community Manager](#community-manager,-database)
+    - [UI Friendly Database](#ui-friendly-database)
+    - [Community Manager](#community-manager,-db)
     - [Communication](#communication)
     - [Chat](#chat)
+    - [Mail](#mail)
+    - [Self-Host](#self-host)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -21,9 +24,12 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+# UI Friendly Database
+### [Symphytum](https://github.com/giowck/symphytum)
+- 
 
 
-# Community Manager, Database
+# Community Manager, db
 - [SQL chat](https://github.com/sqlchat/sqlchat)
 - [GitHub Tech for Social Good](https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program)
 - [CouchDB](https://couchdb.apache.org/)
@@ -41,13 +47,13 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 
 # Chat
-## [Discourse](https://discourse.org/)
+### [Discourse](https://discourse.org/)
 - ---$50--- $25 USD/mo (50% discount for non-profit)
-## [Element client](https://element.io/)
+### [Element client](https://element.io/)
 - $5 USD/mo
-## [matrix](https://www.matrix.org/try-matrix/)
+### [matrix](https://www.matrix.org/try-matrix/)
 Matrix is an open protocol for decentralised, secure communications.
-## [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
+### [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 Free
 - $0, limited message history
 Pro
@@ -65,6 +71,12 @@ Business
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+# Self-Host
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
