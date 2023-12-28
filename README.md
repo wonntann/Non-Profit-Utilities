@@ -6,25 +6,59 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 # Table of Contents
 - [How To Read This](#how-to-read-this)
+- [Other repos](#other-repos)
 - Tools
-    - [Database](#database)
+    - [Community Manager](#community-manager)
     - [Communication](#communication)
+    - [Chat](#chat)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
+# Other Repos for Developers
+[free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-# Database
+[free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
+
+[awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+
+
+# Community Manager
 - [SQL chat](https://github.com/sqlchat/sqlchat)
+- [GitHub Tech for Social Good](https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-# Communication
-- [Element](https://element.io/)
+# Collaborate with donors
+- [Google}(https://www.google.com/nonprofits/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+# Chat
+## [Discourse](https://discourse.org/)
+- ---$50--- $25 USD/mo (50% discount for non-profit)
+## [Element client](https://element.io/)
+- $5 USD/mo
+## [matrix](https://www.matrix.org/try-matrix/)
+Matrix is an open protocol for decentralised, secure communications.
+## [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
+Free
+- $0, limited message history
+Pro
+- $7.25 USD/mo, unlimited
+Business
+- $12.50 USD/mo, unlimited and active directory sync
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+# Mail
+- [WildDuck Webmail](https://webmail.wildduck.email/)
+- [Flarum Forum](https://flarum.org/)
 
 <!-- CONTRIBUTING -->
 ## Contributing
