@@ -5,7 +5,7 @@ Welcome to our comprehensive repository designed to empower non-profit organizat
 Navigating the complex landscape of software options can be overwhelming, but our repository aims to simplify the process by offering detailed insights and comparisons. Whether you're seeking efficient collaboration tools, robust donor management software, or innovative solutions to amplify your social outreach, our repository is a valuable resource to help your non-profit leverage technology for greater efficiency and effectiveness. Explore the possibilities and empower your organization to make an even greater difference in the world.
 
 # Table of Contents
-- [Other repos for Developers](#other-repos)
+- [Other repos for Developers](#other-repos-for-developers)
 - Tools
     - [UI Friendly Database](#ui-friendly-database)
     - [Community Manager](#community-manager,-db)
