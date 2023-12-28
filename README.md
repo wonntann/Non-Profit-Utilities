@@ -46,7 +46,6 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 - [CouchDB](https://couchdb.apache.org/)
 - [Firebird sql](https://firebirdsql.org/en/start/)
 - [Orient DB](https://orientdb.org/)
-- 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -59,7 +58,7 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 # Chat
 #### [Discourse](https://discourse.org/)
-- ~~ 50 ~~ $25 USD/mo (50% discount for non-profit)
+- ~~50~~ $25 USD/mo (50% discount for non-profit)
 #### [Element client](https://element.io/)
 - $5 USD/mo
 #### [matrix](https://www.matrix.org/try-matrix/)
