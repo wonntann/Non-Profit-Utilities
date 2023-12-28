@@ -5,10 +5,9 @@ Welcome to our comprehensive repository designed to empower non-profit organizat
 Navigating the complex landscape of software options can be overwhelming, but our repository aims to simplify the process by offering detailed insights and comparisons. Whether you're seeking efficient collaboration tools, robust donor management software, or innovative solutions to amplify your social outreach, our repository is a valuable resource to help your non-profit leverage technology for greater efficiency and effectiveness. Explore the possibilities and empower your organization to make an even greater difference in the world.
 
 # Table of Contents
-- [How To Read This](#how-to-read-this)
-- [Other repos](#other-repos)
+- [Other repos for Developers](#other-repos)
 - Tools
-    - [Community Manager](#community-manager)
+    - [Community Manager](#community-manager,-database)
     - [Communication](#communication)
     - [Chat](#chat)
 - [Contributing](#contributing)
@@ -24,9 +23,13 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 
 
-# Community Manager
+# Community Manager, Database
 - [SQL chat](https://github.com/sqlchat/sqlchat)
 - [GitHub Tech for Social Good](https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program)
+- [CouchDB](https://couchdb.apache.org/)
+- [Firebird sql](https://firebirdsql.org/en/start/)
+- [Orient DB](https://orientdb.org/)
+- 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
