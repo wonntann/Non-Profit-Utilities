@@ -17,6 +17,13 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 - [License](#license)
 - [Contact](#contact)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Other Repos for Developers
 [free for dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -24,9 +31,13 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 [awesome](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 # UI Friendly Database
 ### [Symphytum](https://github.com/giowck/symphytum)
 - 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 # Community Manager, db
@@ -41,19 +52,19 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 
 # Collaborate with donors
-- [Google}(https://www.google.com/nonprofits/)
+- [Google](https://www.google.com/nonprofits/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 # Chat
-### [Discourse](https://discourse.org/)
-- ---$50--- $25 USD/mo (50% discount for non-profit)
-### [Element client](https://element.io/)
+#### [Discourse](https://discourse.org/)
+- ~~ 50 ~~ $25 USD/mo (50% discount for non-profit)
+#### [Element client](https://element.io/)
 - $5 USD/mo
-### [matrix](https://www.matrix.org/try-matrix/)
+#### [matrix](https://www.matrix.org/try-matrix/)
 Matrix is an open protocol for decentralised, secure communications.
-### [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
+#### [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 Free
 - $0, limited message history
 Pro
