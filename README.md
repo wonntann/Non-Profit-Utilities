@@ -60,6 +60,9 @@ Business
 - [WildDuck Webmail](https://webmail.wildduck.email/)
 - [Flarum Forum](https://flarum.org/)
 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 ## Contributing
 Thanks for checking out this repo, hopefully it will/has assisted you. If you found any edits or want to contribute, please do, it might assist someone who was struggling with this subject.
