@@ -17,6 +17,8 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 - [License](#license)
 - [Contact](#contact)
 
+
+****Notes: Most are Open Source Software with low to no cost, some prices are depicated.
 <br>
 <br>
 <br>
@@ -36,7 +38,66 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 
 # UI Friendly Database
 ### [Symphytum](https://github.com/giowck/symphytum)
-- 
+        Symphytum is a personal database software that is simple and easy to use, suitable for small projects and personal use.
+
+### [Airtable](https://airtable.com/pricing)
+        Airtable is a user-friendly, cloud-based database with a spreadsheet-like interface, making it easy for non-technical users to organize and collaborate on data.
+        Free Plan:
+        - Unlimited bases
+        - 1,000 records per base
+        - Up to 5 editors
+        - 1 GB of attachments per base
+        - 100 automation runs
+        - Interface Designer
+        - Grid, calendar, form, kanban, gallery, and list views
+        
+
+    Little Green Light:
+        Little Green Light is a cloud-based donor management and fundraising platform that is easy to use, making it suitable for non-profit organizations.
+
+    SuiteCRM:
+        SuiteCRM is an open-source CRM platform that offers features like contact and case management, making it valuable for non-profits looking to manage their client relationships.
+
+    Zurmo:
+        Zurmo is a gamified CRM system designed to engage users. It provides tools for managing contacts, opportunities, and activities, making it suitable for non-profits.
+
+    EspoCRM:
+        EspoCRM is a customizable CRM platform with an intuitive interface. It's designed to help non-profits manage relationships and streamline communication.
+
+    DiasporaEngage:
+        DiasporaEngage is an open-source CRM for non-profits, helping organizations manage donors, volunteers, and other stakeholders in a user-friendly environment.
+
+    OpenPetra:
+        OpenPetra is a web-based management system designed for non-profits and charities. It includes features for contact management, fundraising, and financial tracking.
+
+    Corteza CRM:
+        Corteza CRM is an open-source CRM platform that provides a user-friendly interface for managing contacts, organizations, and deals.
+
+
+    Zoho Creator:
+        Zoho Creator offers a low-code platform to build custom applications, including client databases, without the need for extensive coding knowledge.
+
+    Ninox Database:
+        Ninox Database provides a simple, yet powerful, database platform with customizable templates suitable for various business needs.
+
+    Knack:
+        Knack is a no-code database builder that allows users to create online databases and web apps without requiring advanced technical skills.
+
+    Caspio:
+        Caspio is a cloud-based platform offering a point-and-click interface for building custom database applications without coding.
+
+    Microsoft Access (Community Edition):
+        Microsoft Access is a desktop database management system. While the full version is not open source, the community edition is free and provides an easy-to-use interface.
+
+    Glom:
+        Glom is a user-friendly database application builder designed for users with minimal technical expertise, offering a straightforward interface for managing data.
+
+    NuBuilder:
+        NuBuilder is a web-based database development platform that allows users to create custom database applications without coding.
+
+    Grubba:
+        Grubba is an online database service that provides a simple interface for creating and managing databases without the need for extensive technical skills.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
