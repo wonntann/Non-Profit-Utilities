@@ -58,11 +58,6 @@ Base is a fully featured desktop database management system, designed to meet th
 ### [DBeaver Community](https://dbeaver.io/download/)
 DBeaver is free and open source universal database tool for developers and database administrators.
 - Not beginner friendly
-- 
-    Zurmo:
-        Zurmo is a gamified CRM system designed to engage users. It provides tools for managing contacts, opportunities, and activities, making it suitable for non-profits.
-
-    
 
     OpenPetra:
         OpenPetra is a web-based management system designed for non-profits and charities. It includes features for contact management, fundraising, and financial tracking.
