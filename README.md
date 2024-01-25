@@ -59,31 +59,17 @@ Base is a fully featured desktop database management system, designed to meet th
 DBeaver is free and open source universal database tool for developers and database administrators.
 - Not beginner friendly
 
-    OpenPetra:
-        OpenPetra is a web-based management system designed for non-profits and charities. It includes features for contact management, fundraising, and financial tracking.
+###    [OpenPetra](https://www.openpetra.org/)
+OpenPetra is a web-based management system designed for non-profits and charities. It includes features for contact management, fundraising, and financial tracking.
 
-    Corteza CRM:
-        Corteza CRM is an open-source CRM platform that provides a user-friendly interface for managing contacts, organizations, and deals.
+###   [Knack](https://www.knack.com/pricing/)
+Knack is a no-code database builder that allows users to create online databases and web apps without requiring advanced technical skills.
+- $49/monthly Starter
+  
+### [Microsoft Access (Community Edition)](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
+Microsoft Access is a desktop database management system. While the full version is not open source, the community edition is free and provides an easy-to-use interface.
 
 
-    Zoho Creator:
-        Zoho Creator offers a low-code platform to build custom applications, including client databases, without the need for extensive coding knowledge.
-
-    Knack:
-        Knack is a no-code database builder that allows users to create online databases and web apps without requiring advanced technical skills.
-
-    Caspio:
-        Caspio is a cloud-based platform offering a point-and-click interface for building custom database applications without coding.
-
-    Microsoft Access (Community Edition):
-        Microsoft Access is a desktop database management system. While the full version is not open source, the community edition is free and provides an easy-to-use interface.
-
-   
-    NuBuilder:
-        NuBuilder is a web-based database development platform that allows users to create custom database applications without coding.
-
-    Grubba:
-        Grubba is an online database service that provides a simple interface for creating and managing databases without the need for extensive technical skills.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,12 +91,19 @@ DBeaver is free and open source universal database tool for developers and datab
 
 
 # Chat
+#### [zulip](h[ttps://www.chatwoot.com/pricing](https://zulip.com/plans/))
+-  $0 10,000 messages, small np price
+-  6.67 billed annually Standard Plan
 #### [Discourse](https://discourse.org/)
 - ~~50~~ $25 USD/mo (50% discount for non-profit)
 #### [Element client](https://element.io/)
 - $5 USD/mo
+#### [rocket.caht](https://www.rocket.chat/pricing)
+- $0 up to 25 users
+- $4/user/month up to 500 users, standard cloud
+
 #### [matrix](https://www.matrix.org/try-matrix/)
-Matrix is an open protocol for decentralised, secure communications.
+- Matrix is an open protocol for decentralised, secure communications.
 #### [Slack](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 Free
 - $0, limited message history
