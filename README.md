@@ -8,8 +8,8 @@ Navigating the complex landscape of software options can be overwhelming, but ou
 - [Other repos for Developers](#other-repos-for-developers)
 - Tools
     - [UI Friendly Database](#ui-friendly-database)
-    - [Community Manager](#community-manager,-db)
-    - [Communication](#communication)
+    - [Community Manager](#community-manager-db)
+    - [Collaborate with Donors](#collaborate-with-donors)
     - [Chat](#chat)
     - [Mail](#mail)
     - [Self-Host](#self-host)
@@ -74,7 +74,7 @@ Microsoft Access is a desktop database management system. While the full version
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-# Community Manager, db
+# Community Manager db
 - [SQL chat](https://github.com/sqlchat/sqlchat)
 - [GitHub Tech for Social Good](https://socialimpact.github.com/tech-for-social-good/dpg-open-source-community-manager-program)
 - [CouchDB](https://couchdb.apache.org/)
@@ -84,7 +84,7 @@ Microsoft Access is a desktop database management system. While the full version
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-# Collaborate with donors
+# Collaborate with Donors
 - [Google](https://www.google.com/nonprofits/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -124,7 +124,7 @@ Business
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Self-Host
-
+tbd
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
